@@ -1,0 +1,27 @@
+{
+  "name": "grid.min",
+  "description": "A minimum grid framework",
+  "readmeFilename": "README.md" ,
+  "keywords": [
+    "grid"
+  ],
+  "tags": [
+    "grid"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "Paulo Cheque",
+    "email": "paulocheque@gmail.com",
+    "homepage": "http://paulocheque.codeart.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulocheque/grid.min"
+  },
+  "dependencies": {
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
