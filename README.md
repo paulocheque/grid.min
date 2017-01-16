@@ -2,6 +2,8 @@
 
 A minimum grid css framework. It is simple and it just works.
 
+[![npm][npm-image]][npm-url] [![license][license-image]][license-url]
+
 # Installation
 
 `npm install --save grid.min`
@@ -71,3 +73,9 @@ A minimum grid css framework. It is simple and it just works.
 | Windows      |        |         |        |       |         |
 | Android      |        |         |        |       |   N/A   |
 | iOS          |        |         |        |       |   N/A   |
+
+
+[license-image]: https://img.shields.io/npm/l/grid.min.svg?style=flat-square
+[license-url]: LICENSE.md
+[npm-image]: https://img.shields.io/npm/v/grid.min.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/grid.min
