@@ -32,6 +32,8 @@ A minimum grid css framework. It is simple and it just works.
 
 # All documentation is here
 
+JSFiddle example: https://jsfiddle.net/n54ru51z/1/
+
 ```
 <!DOCTYPE html>
 <html>
