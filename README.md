@@ -68,14 +68,15 @@ JSFiddle example: https://jsfiddle.net/n54ru51z/1/
 
 # Supported Browsers
 
-| OS / Browser | Chrome | Firefox | Safari | Opera | MS Edge |
-|--------------|--------|---------|--------|-------|---------|
-| Mac          |        |         |        |       |   N/A   |
-| Linux        |        |         |        |       |   N/A   |
-| Windows      |        |         |        |       |         |
-| Android      |        |         |        |       |   N/A   |
-| iOS          |        |         |        |       |   N/A   |
+| OS / Browser | Chrome    | Firefox   | Safari                | Opera     | MS Edge   | MS IE 11  |
+|--------------|-----------|-----------|-----------------------|-----------|-----------|-----------|
+| Mac          | Supported | Supported | Supported<sup>1</sup> |    ?      |   N/A     | N/A       |
+| Linux        |    ?      |    ?      |    ?                  |    ?      |   N/A     | N/A       |
+| Windows      | Supported |    ?      |    ?                  |    ?      | Supported | Supported |
+| Android      |    ?      |    ?      |    ?                  |    ?      |   N/A     | N/A       |
+| iOS          |    ?      |    ?      | Supported<sup>1</sup> |    ?      |   N/A     | N/A       |
 
+- 1. Safari has some issues with border-box and display: table when stacking horizontally.
 
 [license-image]: https://img.shields.io/npm/l/grid.min.svg?style=flat-square
 [license-url]: LICENSE.md
