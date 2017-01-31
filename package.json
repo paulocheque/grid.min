@@ -1,7 +1,7 @@
 {
   "name": "grid.min",
   "description": "A minimum grid framework",
-  "readmeFilename": "README.md" ,
+  "readmeFilename": "README.md",
   "keywords": [
     "grid"
   ],
@@ -18,8 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/paulocheque/grid.min"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "license": "MIT",
   "engines": {
     "node": ">=0.8.0"

@@ -19,7 +19,7 @@ A minimum and lightweight responsive grid CSS library.
 
 # Installation
 
-- **npm**: `npm install --save grid.min`
+- **npm**: `npm install --save grid.min` (https://www.npmjs.com/package/grid.min)
 
 - Sample CDN: `<link rel="stylesheet" type="text/css" href="https://rawgit.com/paulocheque/grid.min/master/dist/grid.min.css">`
 
