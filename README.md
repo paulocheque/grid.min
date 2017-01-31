@@ -42,7 +42,7 @@ The library is so simple that all the documentation is below.
 
 ## Live example
 
-JSFiddle: https://jsfiddle.net/n54ru51z/1/
+JSFiddle: https://jsfiddle.net/n54ru51z/2/
 
 ## The Grid
 
